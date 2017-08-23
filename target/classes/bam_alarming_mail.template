@@ -1,0 +1,14 @@
+Subject: #!subject#
+
+The business process #!processName# has generated the following alarm:
+
+------------------------------------------
+
+Process Name         : #!processName#
+Activity Name        : #!phaseName#
+Ids                  : #!processInstanceIds#
+KPI Threshold Limit  : #!threshold#
+
+------------------------------------------
+
+This message was delivered to you by BAM, alarm!

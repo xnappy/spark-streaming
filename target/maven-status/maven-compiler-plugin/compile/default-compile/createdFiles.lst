@@ -1,0 +1,8 @@
+com\oneandone\kafka\ConsumerLoop.class
+com\oneandone\spark\StreamEventsAndPrepare.class
+com\oneandone\alarming\mail\MailUtils.class
+com\oneandone\kafka\ConsumerLoop$1.class
+com\oneandone\alarming\mail\MailSender.class
+com\oneandone\spark\BamRecord.class
+com\oneandone\spark\JavaSparkSessionSingleton.class
+com\oneandone\spark\KafkaSparkStreaming.class
